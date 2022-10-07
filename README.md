@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi There 👋, I'm Waleed 
+
+I'm a Computer Science Student at Al-Hussein Technical University (HTU).
+- 😄 I Love Website and Application Development Field.
+- 🌱 I'm Currently Taking A Course With Google [UX/UI Design]!
+- 🔭 I'm Working on my Perssonal Website.
+- ⚡ 2022 Goal: Create a Full Development Plan for a Mobile Application.
