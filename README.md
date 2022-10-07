@@ -20,5 +20,5 @@ Hi There 👋, I'm Waleed
 I'm a Computer Science Student at Al-Hussein Technical University (HTU).
 - 😄 I Love Website and Application Development Field.
 - 🌱 I'm Currently Taking A Course With Google [UX/UI Design]!
-- 🔭 I'm Working on my Perssonal Website.
+- 🔭 I'm Working on my Personal Website.
 - ⚡ 2022 Goal: Create a Full Development Plan for a Mobile Application.
