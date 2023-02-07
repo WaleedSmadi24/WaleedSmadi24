@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi There 👋, I'm Waleed 
 
 I'm a Computer Science Student at Al-Hussein Technical University (HTU).
-- 😄 I Love Website and Application Development Field.
-- 🌱 I'm Currently Taking A Course With Google [UX/UI Design]!
+- 😄 I Love Website Development & AR Development.
+- 🌱 I'm Currently Taking A Course With Google [Project Management]!
 - 🔭 I'm Working on my Personal Website.
-- ⚡ 2022 Goal: Create a Full Development Plan for a Mobile Application.
+- ⚡ 2023 Goal: Finish My Portfolio Website.
